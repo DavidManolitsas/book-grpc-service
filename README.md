@@ -1,2 +1,3 @@
-# book-grpc-service
+# Book gRPC Service
+
 An example Java Maven gRPC service
